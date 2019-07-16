@@ -162,7 +162,7 @@ h1 {
   background-color: #334017;
 }
 @media screen and (max-width: 600px) {
-  .sec2Container {
+  .box {
     width: 100%;
   }
 }
