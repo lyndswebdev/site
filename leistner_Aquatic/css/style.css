@@ -161,15 +161,9 @@ h1 {
   height: 200px;
   background-color: #334017;
 }
-/* Portrait and Landscape */
-/* Portrait */
-/* Landscape */
-/* ----------- iPhone 6+, 7+ and 8+ ----------- */
-/* Portrait and Landscape */
-/* Portrait */
-/* Landscape */
-/* ----------- iPhone X ----------- */
-/* Portrait and Landscape */
-/* Portrait */
-/* Landscape */
+@media screen and (max-width: 600px) {
+  .sec2Container {
+    width: 100%;
+  }
+}
 /*# sourceMappingURL=style.css.map */
